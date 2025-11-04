@@ -4,8 +4,8 @@ I’m a Java developer passionate about creating engaging games, robotics softwa
 
 ## Current Projects
 
-- **The Great Tuna Game** — a text-based RPG starring a clever cat on a quest for the legendary can of tuna.
-- **FRC Robotics: The BEAST** — Programming and development for Team Hammond 71.
+- **NORVYA-M1** — Low-Profile BCI (Brain-Computer Interface)
+- **LEVIATHAN** — Programming and development for Team Hammond 71.
 - **Swerve Drive Subsystem** — Custom Java code for controlling swerve drives in FRC robots.
 
 ## Skills & Technologies
