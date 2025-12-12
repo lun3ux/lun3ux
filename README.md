@@ -10,9 +10,9 @@ I’m a Java developer passionate about creating engaging games, robotics softwa
 
 ## Skills & Technologies
 
-- **Languages:** Java (primary), some Python (for AI/ML experiments)
+- **Languages:** Java (primary), C, ASM
 - **Concepts:** Object-Oriented Programming, Game Development, Robotics Programming
-- **Tools & Frameworks:** Keras, PyTorch (basic), WPILib (FRC robotics)
+- **Tools & Frameworks:** WPILib (FRC robotics)
 - **Activities:** Participating in HackClub, FRC, and eventually FTC and FLL ;3s
 
 ## How to Reach Me
