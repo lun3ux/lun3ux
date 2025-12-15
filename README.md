@@ -1,25 +1,84 @@
-# Hi, Im Lune.
+# lune
 
-I’m a Java developer passionate about creating engaging games, robotics software, and innovative coding projects. I enjoy combining creativity and programming to solve problems and build fun, interactive experiences.
-
-## Current Projects
-
-- **NORVYA-M1** — Low-Profile BCI (Brain-Computer Interface)
-- **LEVIATHAN** — Programming and development for Team Hammond 71.
-- **Swerve Drive Subsystem** — Custom Java code for controlling swerve drives in FRC robots.
-
-## Skills & Technologies
-
-- **Languages:** Java (primary), C, ASM
-- **Concepts:** Object-Oriented Programming, Game Development, Robotics Programming
-- **Tools & Frameworks:** WPILib (FRC robotics)
-- **Activities:** Participating in HackClub, FRC, and eventually FTC and FLL ;3s
-
-## How to Reach Me
-
-Explore my repositories here on GitHub!  
-Feel free to connect or ask me questions via GitHub.
+```
+$ whoami
+lune
+$ uname -a
+low-level systems • osdev • robotics
+```
 
 ---
 
-*Thanks for stopping by!*
+## about
+
+I work close to the metal.  
+Bootloaders, kernels, embedded systems, and robotics control code.  
+If it runs before an OS exists, I probably find it interesting.
+
+I care about:
+- deterministic behavior
+- minimal abstractions
+- understanding how things work *from reset vector onward*
+
+---
+
+## current work
+
+- **LuneOS**  
+  from-scratch operating system (early alpha)
+  - custom bootloader
+  - real mode → protected mode
+  - FAT parsing, basic drivers, kernel bring-up
+
+- **robotics systems**  
+  control loops, sensors, and competition-hardened code
+
+- **tooling & experiments**  
+  small utilities, build systems, and hardware tests
+
+---
+
+## stack
+
+### languages
+```
+C
+C++
+x86 Assembly
+Java
+```
+
+### tools
+```
+Linux (daily driver)
+NASM
+GCC / LD
+Make
+QEMU / real hardware
+Git
+```
+
+---
+
+## interests
+
+- OS design & kernels
+- boot process & firmware
+- embedded & bare-metal systems
+- computer architecture
+- math, physics, and signal-level thinking
+
+---
+
+## philosophy
+
+> abstractions are tools, not defaults
+
+>Learn the layers by removing them.
+
+---
+
+```
+$ echo "still learning. always building."
+still learning. always building.
+```
