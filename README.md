@@ -1,11 +1,6 @@
 # lune
 
-```
-$ whoami
-lune
-$ uname -a
-low-level systems • osdev • robotics
-```
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=10598&api_domain=hackatime.hackclub.com&&custom_title=Languages&layout=compact&cache_seconds=0&langs_count=8&theme=omni)
 
 ---
 
@@ -37,29 +32,6 @@ I care about:
   small utilities, build systems, and hardware tests
 
 ---
-
-## stack
-
-### languages
-```
-C
-C++
-x86 Assembly
-Java
-```
-
-### tools
-```
-Linux (daily driver)
-NASM
-GCC / LD
-Make
-QEMU / real hardware
-Git
-```
-
----
-
 ## interests
 
 - OS design & kernels
